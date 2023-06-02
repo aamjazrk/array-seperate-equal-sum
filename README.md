@@ -1,0 +1,1 @@
+# array-seperate-equal-sum
